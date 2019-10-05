@@ -1,9 +1,9 @@
 0,1
 Afghanistan,AF
-Ålandeilanden,AX
+Åland,AX
 Albanië,AL
 Algerije,DZ
-Amerikaans Samoa,AS
+Amerikaans-Samoa,AS
 Amerikaanse Maagdeneilanden,VI
 Andorra,AD
 Angola,AO
@@ -19,6 +19,7 @@ Bahama’s,BS
 Bahrein,BH
 Bangladesh,BD
 Barbados,BB
+Belarus,BY
 België,BE
 Belize,BZ
 Benin,BJ
@@ -38,7 +39,6 @@ Burundi,BI
 Cambodja,KH
 Canada,CA
 Caribisch Nederland,BQ
-Caymaneilanden,KY
 Centraal-Afrikaanse Republiek,CF
 Chili,CL
 China,CN
@@ -90,7 +90,7 @@ Guinee,GN
 Guinee-Bissau,GW
 Guyana,GY
 Haïti,HT
-Heard- en McDonaldeilanden,HM
+Heard en McDonaldeilanden,HM
 Honduras,HN
 Hong Kong,HK
 Hongarije,HU
@@ -109,6 +109,7 @@ Japan,JP
 Jemen,YE
 Jersey,JE
 Jordanië,JO
+Kaaimaneilanden,KY
 Kaapverdië,CV
 Kameroen,CM
 Kazachstan,KZ
@@ -143,14 +144,14 @@ Mauritanië,MR
 Mauritius,MU
 Mayotte,YT
 Mexico,MX
-Micronesië,FM
+Micronesia,FM
 Moldavië,MD
 Monaco,MC
 Mongolië,MN
 Montenegro,ME
 Montserrat,MS
 Mozambique,MZ
-Myanmar,MM
+Myanmar (Birma),MM
 Namibië,
 Nauru,NR
 Nederland,NL
@@ -162,9 +163,9 @@ Niger,NE
 Nigeria,NG
 Niue,NU
 Noord-Korea,KP
-Noordelijke Marianeneilanden,MP
+Noordelijke Marianen,MP
 Noorwegen,NO
-Norfolkeiland,NF
+Norfolk,NF
 Oeganda,UG
 Oekraïne,UA
 Oezbekistan,UZ
@@ -173,7 +174,7 @@ Oost-Timor,TL
 Oostenrijk,AT
 Pakistan,PK
 Palau,PW
-Palestijnse gebieden,PS
+Palestina,PS
 Panama,PA
 Papoea-Nieuw-Guinea,PG
 Paraguay,PY
@@ -187,12 +188,12 @@ Réunion,RE
 Roemenië,RO
 Rusland,RU
 Rwanda,RW
-Saint Barthélemy,BL
 Saint Kitts en Nevis,KN
 Saint Lucia,LC
-Saint Pierre en Miquelon,PM
 Saint Vincent en de Grenadines,VC
+Saint-Barthélemy,BL
 Saint-Martin,MF
+Saint-Pierre en Miquelon,PM
 Salomonseilanden,SB
 Samoa,WS
 San Marino,SM
@@ -210,9 +211,9 @@ Slowakije,SK
 Soedan,SD
 Somalië,SO
 Spanje,ES
+Spitsbergen en Jan Mayen,SJ
 Sri Lanka,LK
 Suriname,SR
-Svalbard en Jan Mayen,SJ
 Swaziland,SZ
 Syrië,SY
 Tadzjikistan,TJ
@@ -234,13 +235,12 @@ Uruguay,UY
 Vanuatu,VU
 Vaticaanstad,VA
 Venezuela,VE
-Verenigd Koninkrijk,GB
 Verenigde Arabische Emiraten,AE
-Verenigde Staten,US
 Vietnam,VN
+VK,GB
+VS,US
 Wallis en Futuna,WF
 Westelijke Sahara,EH
-Wit-Rusland,BY
 Zambia,ZM
 Zimbabwe,ZW
 Zuid-Afrika,ZA

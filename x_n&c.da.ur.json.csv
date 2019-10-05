@@ -27,9 +27,9 @@ Bolivia,BO
 "Bonaire, Sint Eustatius og Saba",BQ
 Bosnien-Hercegovina,BA
 Botswana,BW
-Bouvetø,BV
+Bouvetøen,BV
 Brasilien,BR
-Brunei Darussalam,BN
+Brunei,BN
 Bulgarien,BG
 Burkina Faso,BF
 Burundi,BI
@@ -37,7 +37,6 @@ Cambodja,KH
 Cameroun,CM
 Canada,CA
 Caymanøerne,KY
-Centralafrikanske Republik,CF
 Chile,CL
 Cocosøerne,CC
 Colombia,CO
@@ -45,15 +44,17 @@ Comorerne,KM
 Congo,CG
 Cookøerne,CK
 Costa Rica,CR
-Curacao,CW
+Curaçao,CW
 Cypern,CY
 Danmark,DK
-De amerikanske jomfruøer,VI
-De britiske jomfruøer,VG
-De palæstinensiske områder,PS
+De Amerikanske Jomfruøer,VI
+De Britiske Jomfruøer,VG
+De Forenede Arabiske Emirater,AE
+De franske besiddelser i Det Sydlige Indiske Ocean,TF
 Democratic Republic of the Congo,CD
+Den Centralafrikanske Republik,CF
 Den Dominikanske Republik,DO
-Det Britiske Territorium i Det Indiske Ocean,IO
+Det britiske territorium i Det Indiske Ocean,IO
 Djibouti,DJ
 Dominica,DM
 Ecuador,EC
@@ -67,11 +68,9 @@ Falklandsøerne (Malvinas),FK
 Fiji,FJ
 Filippinerne,PH
 Finland,FI
-Forenede Arabiske Emirater,AE
 Frankrig,FR
 Fransk Guyana,GF
 Fransk Polynesien,PF
-Franske Besiddelser i Det Sydlige Indiske Ocean,TF
 Færøerne,FO
 Gabon,GA
 Gambia,GM
@@ -89,7 +88,7 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
-Heard- og McDonald-øerne,HM
+Heard Island og McDonald Islands,HM
 Holland,NL
 Honduras,HN
 Hong Kong,HK
@@ -157,12 +156,13 @@ Niger,NE
 Nigeria,NG
 Niue,NU
 Nordmarianerne,MP
-Norfolkøen,NF
+Norfolk Island,NF
 Norge,NO
-Ny Caledonien,NC
+Ny Kaledonien,NC
 Oman,OM
 Pakistan,PK
 Palau,PW
+Palæstina,PS
 Panama,PA
 Papua Ny Guinea,PG
 Paraguay,PY
@@ -172,7 +172,7 @@ Polen,PL
 Portugal,PT
 Puerto Rico,PR
 Qatar,QA
-Reunion,RE
+Réunion,RE
 Rumænien,RO
 Rusland,RU
 Rwanda,RW
@@ -181,10 +181,11 @@ Saint Kitts og Nevis,KN
 Saint Lucia,LC
 Saint Martin,MF
 Saint Pierre og Miquelon,PM
+Saint Vincent og Grenadinerne,VC
 Salomonøerne,SB
 Samoa,WS
 San Marino,SM
-Sao Tome og Principe,ST
+São Tomé og Príncipe,ST
 Saudi-Arabien,SA
 Schweiz,CH
 Senegal,SN
@@ -196,12 +197,10 @@ Sint Maarten,SX
 Slovakiet,SK
 Slovenien,SI
 Somalia,SO
-South Georgia og De Sydlige Sandwichøer,GS
+South Georgia og South Sandwich Islands,GS
 Spanien,ES
 Sri Lanka,LK
 St. Helena,SH
-St. Vincent og Grenadinerne,VC
-Storbritannien,GB
 Sudan,SD
 Surinam,SR
 Svalbard og Jan Mayen,SJ
@@ -227,6 +226,7 @@ Tuvalu,TV
 Tyrkiet,TR
 Tyskland,DE
 Uganda,UG
+UK,GB
 Ukraine,UA
 Ungarn,HU
 Uruguay,UY
@@ -244,4 +244,4 @@ Zimbabwe,ZW
 Ækvatorialguinea,GQ
 Østrig,AT
 Østtimor,TL
-Ålandsøerne,AX
+Åland,AX

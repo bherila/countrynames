@@ -1,10 +1,10 @@
 0,1
+A.S.,US
 Afganistan,AF
 Afrika Selatan,ZA
 Albania,AL
 Aljazair,DZ
-Amerika Serikat,US
-Andora,AD
+Andorra,AD
 Angola,AO
 Anguilla,AI
 Antarktika,AQ
@@ -37,7 +37,6 @@ Bulgaria,BG
 Burkina Faso,BF
 Burundi,BI
 Cad,TD
-China,CN
 Cile,CL
 Congo,CG
 Curaçao,CW
@@ -54,7 +53,9 @@ Filipina,PH
 Finlandia,FI
 Gabon,GA
 Gambia,GM
+GB,GB
 Georgia,GE
+Georgia Selatan & Kep. Sandwich Selatan,GS
 Ghana,GH
 Gibraltar,GI
 Grenada,GD
@@ -74,11 +75,9 @@ Hong Kong,HK
 Hungaria,HU
 India,IN
 Indonesia,ID
-Inggris,GB
 Irak,IQ
 Irlandia,IE
 Islandia,IS
-Isle of Man,IM
 Israel,IL
 Italia,IT
 Ivory Coast,CI
@@ -94,17 +93,16 @@ Kanada,CA
 Kazakstan,KZ
 Kenya,KE
 Kepulauan Aland,AX
+Kepulauan Cayman,KY
 Kepulauan Cocos,CC
 Kepulauan Cook,CK
 Kepulauan Faroe,FO
-Kepulauan Kayman,KY
-Kepulauan Malvinas,FK
+Kepulauan Malvinas (Falkland),FK
 Kepulauan Mariana Utara,MP
 Kepulauan Marshall,MH
 Kepulauan Norfolk,NF
 Kepulauan Pitcairn,PN
 Kepulauan Solomon,SB
-Kepulauan South Sandwich dan South Georgia,GS
 Kepulauan Svalbard dan Jan Mayen,SJ
 Kepulauan Terluar A.S.,UM
 Kepulauan Turks dan Caicos,TC
@@ -151,7 +149,7 @@ Mongolia,MN
 Montenegro,ME
 Montserrat,MS
 Mozambik,MZ
-Myanmar,MM
+Myanmar (Burma),MM
 Namibia,
 Nauru,NR
 Nepal,NP
@@ -161,9 +159,9 @@ Nikaragua,NI
 Niue,NU
 Norwegia,NO
 Oman,OM
-Otoritas Palestina,PS
 Pakistan,PK
 Palau,PW
+Palestina,PS
 Panama,PA
 Papua Nugini,PG
 Paraguay,PY
@@ -176,6 +174,7 @@ Puerto Riko,PR
 Pulau Bouvet,BV
 Pulau Christmas,CX
 Pulau Heard dan Kepulauan McDonald,HM
+Pulau Man,IM
 Qatar,QA
 Republik Afrika Tengah,CF
 Republik Cheska,CZ
@@ -219,9 +218,9 @@ Taiwan,TW
 Tajikistan,TJ
 Tanjung Verde,CV
 Tanzania,TZ
-Teritori Kutub Selatan Prancis,TF
 Thailand,TH
-Timor Leste,TL
+Timor Timur,TL
+Tiongkok,CN
 Togo,TG
 Tokelau,TK
 Tonga,TO
@@ -240,6 +239,7 @@ Vatikan,VA
 Venezuela,VE
 Vietnam,VN
 Wilayah Inggris di Samudra Hindia,IO
+Wilayah Kutub Selatan Prancis,TF
 Yaman,YE
 Yordania,JO
 Yunani,GR

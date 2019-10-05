@@ -2,6 +2,7 @@
 Afghanistan,AF
 Albania,AL
 Algeria,DZ
+Altre isole americane del Pacifico,UM
 Andorra,AD
 Angola,AO
 Anguilla,AI
@@ -26,7 +27,7 @@ Bhutan,BT
 Bielorussia,BY
 Bolivia,BO
 "Bonaire, Sint Eustatius, e Saba",BQ
-Bosnia Erzegovina,BA
+Bosnia ed Erzegovina,BA
 Botswana,BW
 Brasile,BR
 Brunei,BN
@@ -46,7 +47,7 @@ Colombia,CO
 Comore,KM
 Congo,CG
 Corea del Sud,KR
-Costa d'Avorio,CI
+Costa d’Avorio,CI
 Costa Rica,CR
 Croazia,HR
 Cuba,CU
@@ -67,8 +68,9 @@ Finlandia,FI
 Francia,FR
 Gabon,GA
 Gambia,GM
+GB,GB
 Georgia,GE
-Georgia del Sud e Isole Sandwich del Sud,GS
+Georgia del Sud e isole Sandwich australi,GS
 Germania,DE
 Ghana,GH
 Giamaica,JM
@@ -83,11 +85,11 @@ Guadalupa,GP
 Guam,GU
 Guatemala,GT
 Guernsey,GG
-Guiana Francese,GF
 Guinea,GN
 Guinea Equatoriale,GQ
 Guinea-Bissau,GW
 Guyana,GY
+Guyana francese,GF
 Haiti,HT
 Honduras,HN
 Hong Kong,HK
@@ -97,20 +99,20 @@ Iraq,IQ
 Irlanda,IE
 Islanda,IS
 Isola Bouvet,BV
-Isola di Christmas,CX
+Isola Christmas,CX
 Isola di Man,IM
 Isola Norfolk,NF
-Isole Aland,AX
+Isole Åland,AX
 Isole Cayman,KY
 Isole Cocos,CC
 Isole Cook,CK
+Isole Fær Øer,FO
 Isole Falkland (Malvine),FK
-Isole Faroe,FO
-Isole Heard ed Isole McDonald,HM
-Isole Marianne Settentrionali,MP
+Isole Heard e McDonald,HM
+Isole Marianne settentrionali,MP
 Isole Marshall,MH
-Isole periferiche agli USA,UM
-Isole Solomon,SB
+Isole Pitcairn,PN
+Isole Salomone,SB
 Isole Turks e Caicos,TC
 Isole Vergini Americane,VI
 Isole Vergini Britanniche,VG
@@ -136,8 +138,8 @@ Macau,MO
 Macedonia,MK
 Madagascar,MG
 Malawi,MW
+Malaysia,MY
 Maldive,MV
-Malesia,MY
 Mali,ML
 Malta,MT
 Marocco,MA
@@ -153,7 +155,7 @@ Mongolia,MN
 Montenegro,ME
 Montserrat,MS
 Mozambico,MZ
-Myanmar,MM
+Myanmar (Birmania),MM
 Namibia,
 Nauru,NR
 Nepal,NP
@@ -168,36 +170,35 @@ Oman,OM
 Paesi Bassi,NL
 Pakistan,PK
 Palau,PW
-Panama,PA
+Palestina,PS
+Panamá,PA
 Papua Nuova Guinea,PG
 Paraguay,PY
 Perù,PE
-Pitcairn,PN
-Polinesia Francese,PF
+Polinesia francese,PF
 Polonia,PL
 Portogallo,PT
 Portorico,PR
 Qatar,QA
-Regno Unito,GB
 Repubblica Ceca,CZ
 Repubblica Centrafricana,CF
 Repubblica Dominicana,DO
-Réunion,RE
+Riunione,RE
 Romania,RO
 Ruanda,RW
 Russia,RU
-Sahara Occidentale,EH
+Sahara occidentale,EH
 Saint Kitts e Nevis,KN
 Saint Lucia,LC
 Saint Martin,MF
 Saint Pierre e Miquelon,PM
 Saint Vincent e Grenadines,VC
+Saint-Barthélemy,BL
 Samoa,WS
-Samoa Americane,AS
-San Bartolomeo,BL
+Samoa americane,AS
 San Marino,SM
 Sant’Elena,SH
-Sao Tomé e Príncipe,ST
+São Tomé e Príncipe,ST
 Senegal,SN
 Serbia,RS
 Seychelles,SC
@@ -209,22 +210,20 @@ Slovenia,SI
 Somalia,SO
 Spagna,ES
 Sri Lanka,LK
-Stati Uniti,US
+Sud Sudan,SS
 Sudafrica,ZA
 Sudan,SD
-Sudan del Sud,SS
 Suriname,SR
 Svalbard e Jan Mayen,SJ
 Svezia,SE
 Svizzera,CH
 Swaziland,SZ
 Tagikistan,TJ
-Tailandia,TH
 Taiwan,TW
 Tanzania,TZ
-Territori australi francesi,TF
-Territori palestinesi,PS
-Territorio Britannico dell’Oceano Indiano,IO
+Terre australi francesi,TF
+Territorio britannico dell’Oceano Indiano,IO
+Thailandia,TH
 Timor Est,TL
 Togo,TG
 Tokelau,TK
@@ -238,6 +237,7 @@ Ucraina,UA
 Uganda,UG
 Ungheria,HU
 Uruguay,UY
+USA,US
 Uzbekistan,UZ
 Vanuatu,VU
 Venezuela,VE

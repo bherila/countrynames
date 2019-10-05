@@ -8,7 +8,7 @@ Andorra,AD
 Angola,AO
 Anguilla,AI
 Antarctica,AQ
-Antigua and Barbuda,AG
+Antigua & Barbuda,AG
 Argentina,AR
 Armenia,AM
 Aruba,AW
@@ -27,7 +27,7 @@ Bermuda,BM
 Bhutan,BT
 Bolivia,BO
 "Bonaire, Sint Eustatius and Saba",BQ
-Bosnia and Herzegovina,BA
+Bosnia,BA
 Botswana,BW
 Bouvet Island,BV
 Brazil,BR
@@ -96,7 +96,7 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
-Heard Island and McDonald Islands,HM
+Heard & McDonald Islands,HM
 Honduras,HN
 Hong Kong,HK
 Hungary,HU
@@ -169,7 +169,7 @@ Norway,NO
 Oman,OM
 Pakistan,PK
 Palau,PW
-Palestinian Territories,PS
+Palestine,PS
 Panama,PA
 Papua New Guinea,PG
 Paraguay,PY
@@ -184,16 +184,9 @@ Réunion,RE
 Romania,RO
 Russia,RU
 Rwanda,RW
-Saint Barthélemy,BL
-Saint Helena,SH
-Saint Kitts and Nevis,KN
-Saint Lucia,LC
-Saint Martin,MF
-Saint Pierre and Miquelon,PM
-Saint Vincent and the Grenadines,VC
 Samoa,WS
 San Marino,SM
-São Tomé and Príncipe,ST
+São Tomé & Príncipe,ST
 Saudi Arabia,SA
 Senegal,SN
 Serbia,RS
@@ -206,14 +199,21 @@ Slovenia,SI
 Solomon Islands,SB
 Somalia,SO
 South Africa,ZA
-South Georgia and the South Sandwich Islands,GS
+South Georgia & South Sandwich Islands,GS
 South Korea,KR
 South Sudan,SS
 Spain,ES
 Sri Lanka,LK
+St. Barthélemy,BL
+St. Helena,SH
+St. Kitts & Nevis,KN
+St. Lucia,LC
+St. Martin,MF
+St. Pierre & Miquelon,PM
+St. Vincent & Grenadines,VC
 Sudan,SD
 Suriname,SR
-Svalbard and Jan Mayen,SJ
+Svalbard & Jan Mayen,SJ
 Swaziland,SZ
 Sweden,SE
 Switzerland,CH
@@ -225,26 +225,26 @@ Thailand,TH
 Togo,TG
 Tokelau,TK
 Tonga,TO
-Trinidad and Tobago,TT
+Trinidad & Tobago,TT
 Tunisia,TN
 Turkey,TR
 Turkmenistan,TM
-Turks and Caicos Islands,TC
+Turks & Caicos Islands,TC
 Tuvalu,TV
 U.S. Outlying Islands,UM
 U.S. Virgin Islands,VI
 Uganda,UG
+UK,GB
 Ukraine,UA
 United Arab Emirates,AE
-United Kingdom,GB
-United States,US
 Uruguay,UY
+US,US
 Uzbekistan,UZ
 Vanuatu,VU
 Vatican City,VA
 Venezuela,VE
 Vietnam,VN
-Wallis and Futuna,WF
+Wallis & Futuna,WF
 Western Sahara,EH
 Yemen,YE
 Zambia,ZM

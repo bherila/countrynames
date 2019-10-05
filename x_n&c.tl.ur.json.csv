@@ -26,7 +26,6 @@ Benin,BJ
 Bermuda,BM
 Bhutan,BT
 Bolivia,BO
-"Bonaire, Sint Eustatius and Saba",BQ
 Bosnia and Herzegovina,BA
 Botswana,BW
 Bouvet Island,BV
@@ -41,6 +40,7 @@ Cambodia,KH
 Cameroon,CM
 Canada,CA
 Cape Verde,CV
+Caribbean Netherlands,BQ
 Cayman Islands,KY
 Central African Republic,CF
 Chad,TD
@@ -70,7 +70,7 @@ Equatorial Guinea,GQ
 Eritrea,ER
 Estonia,EE
 Ethiopia,ET
-Falkland Islands (Malvinas),FK
+Falkland Islands (Islas Malvinas),FK
 Faroe Islands,FO
 Fiji,FJ
 Finland,FI
@@ -112,6 +112,7 @@ Jamaica,JM
 Japan,JP
 Jersey,JE
 Jordan,JO
+Kanlurang Sahara,EH
 Kazakhstan,KZ
 Kenya,KE
 Kiribati,KI
@@ -149,7 +150,7 @@ Montserrat,MS
 Mongolia,MN
 Morocco,MA
 Mozambique,MZ
-Myanmar,MM
+Myanmar (Burma),MM
 Namibia,
 Nauru,NR
 Nepal,NP
@@ -166,12 +167,12 @@ Norway,NO
 Oman,OM
 Pakistan,PK
 Palau,PW
-Palestinian Territories,PS
+Palestine,PS
 Panama,PA
 Papua New Guinea,PG
 Paraguay,PY
 Peru,PE
-Philippines,PH
+Pilipinas,PH
 Pitcairn Islands,PN
 Poland,PL
 Portugal,PT
@@ -204,8 +205,6 @@ Solomon Islands,SB
 Somalia,SO
 South Africa,ZA
 South Georgia and the South Sandwich Islands,GS
-South Korea,KR
-South Sudan,SS
 Spain,ES
 Sri Lanka,LK
 Sudan,SD
@@ -218,6 +217,8 @@ Taiwan,TW
 Tajikistan,TJ
 Tanzania,TZ
 Thailand,TH
+Timog Korea,KR
+Timog Sudan,SS
 Togo,TG
 Tokelau,TK
 Tonga,TO
@@ -227,13 +228,13 @@ Turkey,TR
 Turkmenistan,TM
 Turks and Caicos Islands,TC
 Tuvalu,TV
+U.K.,GB
+U.S.,US
 U.S. Outlying Islands,UM
 U.S. Virgin Islands,VI
 Uganda,UG
 Ukraine,UA
 United Arab Emirates,AE
-United Kingdom,GB
-United States,US
 Uruguay,UY
 Uzbekistan,UZ
 Vanuatu,VU
@@ -241,7 +242,6 @@ Vatican City,VA
 Venezuela,VE
 Vietnam,VN
 Wallis and Futuna,WF
-Western Sahara,EH
 Yemen,YE
 Zambia,ZM
 Zimbabwe,ZW

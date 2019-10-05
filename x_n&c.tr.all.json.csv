@@ -1,6 +1,6 @@
 0,1
 ABD,US
-ABD Dış Adaları,UM
+ABD Uzak Adaları,UM
 ABD Virjin Adaları,VI
 Afganistan,AF
 Åland Adaları,AX
@@ -28,13 +28,14 @@ Benin,BJ
 Bermuda,BM
 Beyaz Rusya,BY
 Birleşik Arap Emirlikleri,AE
-Birleşik Krallık,GB
+BK,GB
 Bolivya,BO
 "Bonaire, Sint Eustatius ve Saba",BQ
 Bosna Hersek,BA
 Botsvana,BW
 Bouvet Adası,BV
 Brezilya,BR
+Britanya Hint Okyanusu Toprakları,IO
 Britanya Virjin Adaları,VG
 Brunei,BN
 Bulgaristan,BG
@@ -73,11 +74,11 @@ Fas,MA
 Fiji,FJ
 Fildişi Sahili,CI
 Filipinler,PH
-Filistin Bölgeleri,PS
+Filistin,PS
 Finlandiya,FI
 Fransa,FR
 Fransız Guyanası,GF
-Fransız Güney Bölgeleri,TF
+Fransız Güney Toprakları,TF
 Fransız Polinezyası,PF
 Gabon,GA
 Gambiya,GM
@@ -93,7 +94,6 @@ Guernsey,GG
 Guyana,GY
 Güney Afrika,ZA
 Güney Georgia ve Güney Sandwich Adaları,GS
-Güney Kıbrıs Rum Kesimi,CY
 Güney Kore,KR
 Güney Sudan,SS
 Gürcistan,GE
@@ -105,7 +105,6 @@ Hollanda,NL
 Honduras,HN
 Hong Kong,HK
 Irak,IQ
-İngiliz Hint Okyanusu Bölgesi,IO
 İran,IR
 İrlanda,IE
 İspanya,ES
@@ -124,6 +123,7 @@ Karadağ,ME
 Katar,QA
 Kazakistan,KZ
 Kenya,KE
+Kıbrıs,CY
 Kırgızistan,KG
 Kiribati,KI
 Kolombiya,CO
@@ -159,7 +159,7 @@ Mauritius,MU
 Mayotte,YT
 Meksika,MX
 Mısır,EG
-Mikronezya Federal Eyaletleri,FM
+Mikronezya,FM
 Moğolistan,MN
 Moldova,MD
 Monako,MC

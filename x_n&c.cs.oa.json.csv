@@ -1,6 +1,6 @@
 0,1
 Afghánistán,AF
-Alandy,AX
+Ålandy,AX
 Albánie,AL
 Alžírsko,DZ
 Americká Samoa,AS
@@ -38,6 +38,7 @@ Burkina Faso,BF
 Burundi,BI
 Congo,CG
 Cookovy ostrovy,CK
+Côte d’Ivoire,CI
 Curaçao,CW
 Čad,TD
 Černá Hora,ME
@@ -60,7 +61,7 @@ Filipíny,PH
 Finsko,FI
 Francie,FR
 Francouzská Guyana,GF
-Francouzská jižní teritoria,TF
+Francouzská jižní území,TF
 Francouzská Polynésie,PF
 Gabon,GA
 Gambie,GM
@@ -149,7 +150,7 @@ Monako,MC
 Mongolsko,MN
 Montserrat,MS
 Mosambik,MZ
-Myanmar,MM
+Myanmar (Barma),MM
 Namibie,
 Nauru,NR
 Německo,DE
@@ -165,16 +166,14 @@ Nová Kaledonie,NC
 Nový Zéland,NZ
 Omán,OM
 Ostrov Man,IM
-Ostrovy Turks a Caicos,TC
 Pákistán,PK
 Palau,PW
-Palestinská území,PS
+Palestina,PS
 Panama,PA
 Papua-Nová Guinea,PG
 Paraguay,PY
 Peru,PE
 Pitcairnovy ostrovy,PN
-Pobřeží slonoviny,CI
 Polsko,PL
 Portoriko,PR
 Portugalsko,PT
@@ -185,6 +184,7 @@ Rumunsko,RO
 Rusko,RU
 Rwanda,RW
 Řecko,GR
+Saint-Pierre a Miquelon,PM
 Salvador,SV
 Samoa,WS
 San Marino,SM
@@ -194,12 +194,10 @@ Severní Mariany,MP
 Seychely,SC
 Sierra Leone,SL
 Singapur,SG
-Sint Maarten,SX
 Slovensko,SK
 Slovinsko,SI
 Somálsko,SO
 Spojené arabské emiráty,AE
-Spojené státy,US
 Srbsko,RS
 Srí Lanka,LK
 Středoafrická republika,CF
@@ -208,9 +206,9 @@ Surinam,SR
 Svatá Helena,SH
 Svatá Lucie,LC
 Svatý Bartoloměj,BL
-Svatý Kitts a Nevis,KN
-Svatý Martin,MF
-Svatý Pierre a Miquelon,PM
+Svatý Kryštof a Nevis,KN
+Svatý Martin (Francie),MF
+Svatý Martin (Nizozemsko),SX
 Svatý Tomáš a Princův ostrov,ST
 Svatý Vincenc a Grenadiny,VC
 Svazijsko,SZ
@@ -230,15 +228,17 @@ Trinidad a Tobago,TT
 Tunisko,TN
 Turecko,TR
 Turkmenistán,TM
+Turks a Caicos,TC
 Tuvalu,TV
 Uganda,UG
 Ukrajina,UA
 Uruguay,UY
+USA,US
 Uzbekistán,UZ
-Vánoční ostrovy,CX
+Vánoční ostrov,CX
 Vanuatu,VU
 Vatikán,VA
-Velká Británie,GB
+VB,GB
 Venezuela,VE
 Vietnam,VN
 Východní Timor,TL

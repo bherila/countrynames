@@ -6,8 +6,8 @@ Američka Samoa,AS
 Američki Djevičanski Otoci,VI
 Andora,AD
 Angola,AO
-Anguila,AI
-Antarktik,AQ
+Angvila,AI
+Antarktika,AQ
 Antigua i Barbuda,AG
 Argentina,AR
 Armenija,AM
@@ -32,7 +32,7 @@ Bosna i Hercegovina,BA
 Božićni Otok,CX
 Brazil,BR
 Britanski Djevičanski Otoci,VG
-Britanski Teritorij Indijskog Oceana,IO
+Britanski Indijskooceanski Teritorij,IO
 Brunej,BN
 Bugarska,BG
 Burkina Faso,BF
@@ -40,6 +40,7 @@ Burundi,BI
 Butan,BT
 Cipar,CY
 Congo,CG
+Cookovi Otoci,CK
 Crna Gora,ME
 Curaçao,CW
 Čad,TD
@@ -53,7 +54,6 @@ Džibuti,DJ
 Egipat,EG
 Ekvador,EC
 Ekvatorska Gvineja,GQ
-El Salvador,SV
 Eritreja,ER
 Estonija,EE
 Etiopija,ET
@@ -65,17 +65,16 @@ Finska,FI
 Francuska,FR
 Francuska Gvajana,GF
 Francuska Polinezija,PF
-Francuski Južni Teritoriji,TF
+Francuske Južne i Antarktičke Zemlje,TF
 Gabon,GA
 Gambija,GM
 Gana,GH
 Gibraltar,GI
-Grad Vatikan,VA
 Grčka,GR
 Grenada,GD
 Grenland,GL
 Gruzija,GE
-Guadeloupe,GP
+Guadalupa,GP
 Guam,GU
 Guernsey,GG
 Gvajana,GY
@@ -100,7 +99,7 @@ Japan,JP
 Jemen,YE
 Jersey,JE
 Jordan,JO
-Južna Gruzija i Južni Sendvič Otoci,GS
+Južna Georgija i Južni Sendvički Otoci,GS
 Južna Koreja,KR
 Južni Sudan,SS
 Južnoafrička Republika,ZA
@@ -109,7 +108,7 @@ Kambodža,KH
 Kamerun,CM
 Kanada,CA
 Katar,QA
-Kazakstan,KZ
+Kazahstan,KZ
 Kenija,KE
 Kina,CN
 Kirgistan,KG
@@ -120,7 +119,6 @@ Komori,KM
 Kosovo,XK
 Kostarika,CR
 Kuba,CU
-Kukovi Otoci,CK
 Kuvajt,KW
 Laos,LA
 Latvija,LV
@@ -135,24 +133,25 @@ Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Mađarska,HU
-Majote,YT
 Malavi,MW
 Maldivi,MV
 Malezija,MY
 Mali,ML
+Mali udaljeni otoci SAD-a,UM
 Malta,MT
 Maroko,MA
 Maršalovi Otoci,MH
-Martinik,MQ
+Martinique,MQ
 Mauricijus,MU
 Mauritanija,MR
+Mayotte,YT
 Meksiko,MX
 Mijanmar,MM
 Mikronezija,FM
 Moldavija,MD
 Monako,MC
 Mongolija,MN
-Montserat,MS
+Montserrat,MS
 Mozambik,MZ
 Namibija,
 Nauru,NR
@@ -168,14 +167,15 @@ Novi Zeland,NZ
 Njemačka,DE
 Oman,OM
 Otoci Aland,AX
+Otoci Heard i McDonald,HM
 Otoci Pitcairn,PN
+Otoci Turks i Caicos,TC
 Otok Bouvet,BV
-Otok Heard i Otoci McDonald,HM
 Otok Man,IM
 Otok Norfolk,NF
 Pakistan,PK
 Palau,PW
-Palestinsko Područje,PS
+Palestina,PS
 Panama,PA
 Papua Nova Gvineja,PG
 Paragvaj,PY
@@ -187,6 +187,9 @@ Reunion,RE
 Ruanda,RW
 Rumunjska,RO
 Rusija,RU
+SAD,US
+Salomonski Otoci,SB
+Salvador,SV
 Samoa,WS
 San Marino,SM
 Saudijska Arabija,SA
@@ -196,12 +199,10 @@ Sijera Leone,SL
 Singapur,SG
 Sint Maarten,SX
 Sirija,SY
-Sjedinjene Države,US
 Sjeverna Koreja,KP
 Sjeverni Marijanski Otoci,MP
 Slovačka,SK
 Slovenija,SI
-Solomonski Otoci,SB
 Somalija,SO
 Srbija,RS
 Srednjoafrička Republika,CF
@@ -211,11 +212,12 @@ Svalbard i Jan Mayen,SJ
 Svazi,SZ
 Sveta Helena,SH
 Sveta Lucija,LC
+Sveta Stolica,VA
 Sveti Bartolomej,BL
 Sveti Kristofor i Nevis,KN
 Sveti Martin,MF
 Sveti Petar i Mikelon,PM
-Sveti Toma i Prinsipe,ST
+Sveti Toma i Princip,ST
 Sveti Vincent i Grenadini,VC
 Španjolska,ES
 Šri Lanka,LK
@@ -231,21 +233,19 @@ Tonga,TO
 Trinidad i Tobago,TT
 Tunis,TN
 Turkmenistan,TM
-Turkski i Kaikos Otoci,TC
 Turska,TR
 Tuvalu,TV
 Uganda,UG
-Ujedinjene Države Manjih Pacifičkih Otoka,UM
 Ujedinjeni Arapski Emirati,AE
+UK,GB
 Ukrajina,UA
 Urugvaj,UY
 Uzbekistan,UZ
 Vanuatu,VU
-Velika Britanija,GB
 Venezuela,VE
 Vijetnam,VN
 Wallis i Futuna,WF
 Zambija,ZM
 Zapadna Sahara,EH
-Zeleni Rt,CV
+Zelenortska Republika,CV
 Zimbabve,ZW

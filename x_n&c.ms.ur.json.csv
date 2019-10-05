@@ -1,14 +1,13 @@
 0,1
+A.S,US
 Afghanistan,AF
 Afrika Selatan,ZA
 Albania,AL
-Aljazair,DZ
-American Samoa,AS
-Amerika Syarikat,US
+Algeria,DZ
 Andorra,AD
 Angola,AO
 Anguilla,AI
-Antarctica,AQ
+Antartika,AQ
 Antigua dan Barbuda,AG
 Arab Saudi,SA
 Argentina,AR
@@ -32,63 +31,58 @@ Bolivia,BO
 "Bonaire, Sint Eustatius dan Saba",BQ
 Bosnia dan Herzegovina,BA
 Botswana,BW
-Bouvet Island,BV
 Brazil,BR
-British Indian Ocean Territory,IO
-British Virgin Islands,VG
 Brunei,BN
 Bulgaria,BG
 Burkina Faso,BF
 Burundi,BI
-Cad,TD
+Cameroon,CM
 Cape Verde,CV
-Cayman Islands,KY
+Chad,TD
+Chile,CL
 China,CN
-Christmas Island,CX
-Cile,CL
 Cocos (Keeling) Islands,CC
 Colombia,CO
 Comoros,KM
 Congo,CG
-Cook Islands,CK
+Costa Rica,CR
 Croatia,HR
 Curacao,CW
+Cyprus,CY
 Democratic Republic of the Congo,CD
 Denmark,DK
+Djibouti,DJ
 Dominica,DM
 Ecuador,EC
 El Salvador,SV
 Emiriah Arab Bersatu,AE
-Equatorial Guinea,GQ
 Eritrea,ER
 Estonia,EE
 Ethiopia,ET
-Faroe Islands,FO
-Feringgi,PT
 Fiji,FJ
 Filipina,PH
 Finland,FI
-French Guiana,GF
-French Southern Territories,TF
 Gabon,GA
 Gambia,GM
 Georgia,GE
 Ghana,GH
 Gibraltar,GI
+Greece,GR
 Greenland,GL
 Grenada,GD
 Guadeloupe,GP
 Guam,GU
 Guatemala,GT
 Guernsey,GG
+Guiana Perancis,GF
 Guinea,GN
 Guinea Bissau,GW
+Guinea Khatulistiwa,GQ
 Guyana,GY
 Haiti,HT
-Heard Island and McDonald Islands,HM
 Honduras,HN
 Hong Kong,HK
-Hungari,HU
+Hungary,HU
 Iceland,IS
 India,IN
 Indonesia,ID
@@ -98,26 +92,33 @@ Isle of Man,IM
 Israel,IL
 Itali,IT
 Ivory Coast,CI
-Jamaika,JM
+Jamaica,JM
 Jepun,JP
 Jerman,DE
 Jersey,JE
-Jibouti,DJ
 Jordan,JO
-Kamerun,CM
 Kanada,CA
 Kazakhstan,KZ
 Kemboja,KH
 Kenya,KE
-Kepulauan Åland,AX
+Kepulauan Aland,AX
+Kepulauan Cayman,KY
+Kepulauan Cook,CK
 Kepulauan Falkland (Malvinas),FK
+Kepulauan Faroe,FO
+Kepulauan Georgia Selatan & Sandwich Selatan,GS
+Kepulauan Heard & McDonald,HM
+Kepulauan Mariana Utara,MP
 Kepulauan Marshall,MH
 Kepulauan Pitcairn,PN
 Kepulauan Solomon,SB
-Kibris,CY
+Kepulauan Terpencil A.S.,UM
+Kepulauan Turks dan Caicos,TC
+Kepulauan Virgin A.S.,VI
+Kepulauan Virgin British,VG
 Kiribati,KI
+Korea Selatan,KR
 Kosovo,XK
-Kosta Rika,CR
 Kota Vatican,VA
 Kuwait,KW
 Kyrgyzstan,KG
@@ -129,29 +130,29 @@ Libya,LY
 Liechtenstein,LI
 Lithuania,LT
 Lubnan,LB
-Luksembourg,LU
+Luxembourg,LU
 Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Maghribi,MA
 Malawi,MW
 Malaysia,MY
-Maldiv,MV
+Maldives,MV
 Mali,ML
 Malta,MT
 Martinique,MQ
 Mauritania,MR
 Mauritius,MU
 Mayotte,YT
-Meksiko,MX
 Mesir,EG
+Mexico,MX
 Micronesia,FM
 Moldova,MD
 Monaco,MC
 Mongolia,MN
 Montenegro,ME
 Montserrat,MS
-Mozambik,MZ
+Mozambique,MZ
 Myanmar,MM
 Namibia,
 Nauru,NR
@@ -162,12 +163,11 @@ Nicaragua,NI
 Niger,NE
 Nigeria,NG
 Niue,NU
-Norfolk Island,NF
-Northern Mariana Islands,MP
 Norway,NO
 Oman,OM
 Pakistan,PK
 Palau,PW
+Palestin,PS
 Panama,PA
 Papua New Guinea,PG
 Paraguay,PY
@@ -175,12 +175,16 @@ Perancis,FR
 Peru,PE
 Poland,PL
 Polinesia Perancis,PF
+Portugal,PT
 Puerto Rico,PR
+Pulau Bouvet,BV
+Pulau Krismas,CX
+Pulau Norfolk,NF
 Qatar,QA
 Republik Afrika Tengah,CF
 Republik Czech,CZ
-Republik Dominican,DO
-Réunion,RE
+Republik Dominica,DO
+Reunion,RE
 Romania,RO
 Rusia,RU
 Rwanda,RW
@@ -190,33 +194,32 @@ Saint Helena,SH
 Saint Kitts dan Nevis,KN
 Saint Lucia,LC
 Saint Martin,MF
-Saint Pierre and Miquelon,PM
+Saint Pierre dan Miquelon,PM
 Saint Vincent dan Grenadines,VC
 Samoa,WS
+Samoa Amerika,AS
 San Marino,SM
-São Tomé dan Príncipe,ST
-Selatan Korea,KR
+Sao Tome dan Principe,ST
 Senegal,SN
 Sepanyol,ES
 Serbia,RS
 Seychelles,SC
-Siera Leon,SL
+Sierra Leone,SL
 Singapura,SG
 Sint Maarten,SX
 Slovakia,SK
 Slovenia,SI
 Somalia,SO
-South Georgia and the South Sandwich Islands,GS
 Sri Lanka,LK
 Sudan,SD
 Sudan Selatan,SS
 Surinam,SR
-Svalbard and Jan Mayen,SJ
+Svalbard dan Jan Mayen,SJ
 Swaziland,SZ
 Sweden,SE
 Switzerland,CH
-Tadjikistan,TJ
 Taiwan,TW
+Tajikistan,TJ
 Tanzania,TZ
 Thailand,TH
 Timor Timur,TL
@@ -227,21 +230,18 @@ Trinidad dan Tobago,TT
 Tunisia,TN
 Turki,TR
 Turkmenistan,TM
-Turks and Caicos Islands,TC
 Tuvalu,TV
-U.S. Virgin Islands,VI
 Uganda,UG
+UK,GB
 Ukraine,UA
-United Kingdom,GB
-United States Minor Outlying Islands,UM
 Uruguay,UY
 Uzbekistan,UZ
 Vanuatu,VU
 Venezuela,VE
 Vietnam,VN
-Wallis and Futuna,WF
-Wilayah Palestin,PS
+Wallis dan Futuna,WF
+Wilayah Lautan Hindi British,IO
+Wilayah Selatan Perancis,TF
 Yaman,YE
-Yunani,GR
 Zambia,ZM
 Zimbabwe,ZW
