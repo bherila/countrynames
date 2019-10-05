@@ -43,7 +43,7 @@ Chile,CL
 Congo,CG
 Cookinsaaret,CK
 Costa Rica,CR
-Côte d'Ivoire,CI
+Côte d’Ivoire,CI
 Curaçao,CW
 Democratic Republic of the Congo,CD
 Djibouti,DJ
@@ -78,9 +78,9 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
-Heard- ja McDonaldinsaaret,HM
+Heard ja McDonaldinsaaret,HM
 Honduras,HN
-Hongkong,HK
+Hong Kong,HK
 Huippuvuoret ja Jan Mayen,SJ
 Indonesia,ID
 Intia,IN
@@ -126,7 +126,7 @@ Liechtenstein,LI
 Liettua,LT
 Luxemburg,LU
 Länsi-Sahara,EH
-Macao,MO
+Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Malawi,MW
@@ -176,9 +176,9 @@ Puola,PL
 Päiväntasaajan Guinea,GQ
 Qatar,QA
 Ranska,FR
+Ranskan eteläiset alueet,TF
 Ranskan Guayana,GF
 Ranskan Polynesia,PF
-Ranskan ulkopuoliset eteläiset alueet,TF
 Réunion,RE
 Romania,RO
 Ruanda,RW
@@ -234,6 +234,7 @@ Uganda,UG
 Ukraina,UA
 Unkari,HU
 Uruguay,UY
+USA,US
 Uusi-Kaledonia,NC
 Uusi-Seelanti,NZ
 Uzbekistan,UZ
@@ -245,7 +246,6 @@ Venäjä,RU
 Vietnam,VN
 Viro,EE
 Wallis ja Futuna,WF
-Yhdysvallat,US
+Yhdysvaltain erillissaaret,UM
 Yhdysvaltain Neitsytsaaret,VI
-Yhdysvaltain pienet erillissaaret,UM
 Zimbabwe,ZW

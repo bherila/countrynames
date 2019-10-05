@@ -29,8 +29,8 @@ Bosnien och Hercegovina,BA
 Botswana,BW
 Bouvetön,BV
 Brasilien,BR
-Brittiska Indiska oceanöarna,IO
 Brittiska Jungfruöarna,VG
+Brittiska territoriet i Indiska oceanen,IO
 Brunei,BN
 Bulgarien,BG
 Burkina Faso,BF
@@ -57,14 +57,14 @@ Elfenbenskusten,CI
 Eritrea,ER
 Estland,EE
 Etiopien,ET
-Falklandsöarna,FK
+Falklandsöarna (Malvinerna),FK
 Fiji,FJ
 Filippinerna,PH
 Finland,FI
 Frankrike,FR
 Franska Guyana,GF
 Franska Polynesien,PF
-Franska Sydterritorierna,TF
+Franska sydterritorierna,TF
 Färöarna,FO
 Förenade Arabemiraten,AE
 Gabon,GA
@@ -83,9 +83,9 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
-Heard- och McDonaldöarna,HM
+Heardön och McDonaldöarna,HM
 Honduras,HN
-Hongkong,HK
+Hong Kong,HK
 Indien,IN
 Indonesien,ID
 Irak,IQ
@@ -125,7 +125,7 @@ Libyen,LY
 Liechtenstein,LI
 Litauen,LT
 Luxemburg,LU
-Macao,MO
+Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Malawi,MW
@@ -147,7 +147,7 @@ Monaco,MC
 Mongoliet,MN
 Montenegro,ME
 Montserrat,MS
-Myanmar,MM
+Myanmar (Burma),MM
 Namibia,
 Nauru,NR
 Nederländerna,NL
@@ -165,7 +165,7 @@ Nya Zeeland,NZ
 Oman,OM
 Pakistan,PK
 Palau,PW
-Palestinska territoriet,PS
+Palestina,PS
 Panama,PA
 Papua Nya Guinea,PG
 Paraguay,PY
@@ -184,7 +184,6 @@ S:t Helena,SH
 S:t Kitts och Nevis,KN
 S:t Lucia,LC
 S:t Martin,MF
-S:t Martin (nederländska delen),SX
 S:t Pierre och Miquelon,PM
 S:t Vincent och Grenadinerna,VC
 Salomonöarna,SB
@@ -198,6 +197,7 @@ Serbien,RS
 Seychellerna,SC
 Sierra Leone,SL
 Singapore,SG
+Sint Maarten,SX
 Slovakien,SK
 Slovenien,SI
 Somalia,SO

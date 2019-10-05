@@ -20,12 +20,12 @@ Bahamas,BS
 Bahreïn,BH
 Bangladesh,BD
 Barbade,BB
-Bélarus,BY
 Belgique,BE
 Belize,BZ
 Bénin,BJ
 Bermudes,BM
 Bhoutan,BT
+Biélorussie,BY
 Bolivie,BO
 "Bonaire, Saint-Eustache et Saba",BQ
 Bosnie-Herzégovine,BA
@@ -55,6 +55,7 @@ Danemark,DK
 Democratic Republic of the Congo,CD
 Djibouti,DJ
 Dominique,DM
+É.-U.,US
 Égypte,EG
 El Salvador,SV
 Émirats arabes unis,AE
@@ -64,7 +65,6 @@ Espagne,ES
 Estonie,EE
 État de la Cité du Vatican,VA
 États fédérés de Micronésie,FM
-États-Unis,US
 Éthiopie,ET
 Fidji,FJ
 Finlande,FI
@@ -72,7 +72,7 @@ France,FR
 Gabon,GA
 Gambie,GM
 Géorgie,GE
-Géorgie du Sud et les Îles Sandwich du Sud,GS
+Géorgie du Sud et îles Sandwich du Sud,GS
 Ghana,GH
 Gibraltar,GI
 Grèce,GR
@@ -99,14 +99,15 @@ Hongrie,HU
 Îles Caïmans,KY
 Îles Cocos (Keeling),CC
 Îles Cook,CK
-Îles éloignées des États-Unis,UM
 Îles Féroé,FO
-Îles Heard et MacDonald,HM
+Îles Heard et McDonald,HM
 Îles Malouines (Falkland),FK
 Îles Mariannes du Nord,MP
 Îles Marshall,MH
+Îles mineures éloignées des États-Unis,UM
+Îles Pitcairn,PN
 Îles Salomon,SB
-Îles Turks et Caïques,TC
+Îles Turques-et-Caïques,TC
 Îles Vierges britanniques,VG
 Îles Vierges des États-Unis,VI
 Inde,IN
@@ -126,6 +127,7 @@ Kirghizistan,KG
 Kiribati,KI
 Kosovo,XK
 Koweït,KW
+La Réunion,RE
 Laos,LA
 Lesotho,LS
 Lettonie,LV
@@ -135,7 +137,7 @@ Libye,LY
 Liechtenstein,LI
 Lituanie,LT
 Luxembourg,LU
-Macao,MO
+Macau,MO
 Macedonia,MK
 Madagascar,MG
 Malaisie,MY
@@ -155,7 +157,7 @@ Mongolie,MN
 Monténégro,ME
 Montserrat,MS
 Mozambique,MZ
-Myanmar,MM
+Myanmar (Birmanie),MM
 Namibie,
 Nauru,NR
 Népal,NP
@@ -171,39 +173,38 @@ Ouganda,UG
 Ouzbékistan,UZ
 Pakistan,PK
 Palaos,PW
+Palestine,PS
 Panama,PA
 Papouasie-Nouvelle-Guinée,PG
 Paraguay,PY
 Pays-Bas,NL
 Pérou,PE
 Philippines,PH
-Pitcairn,PN
 Pologne,PL
 Polynésie française,PF
 Porto Rico,PR
 Portugal,PT
 Qatar,QA
+R.-U.,GB
 République centrafricaine,CF
 République dominicaine,DO
 République tchèque,CZ
-Réunion,RE
 Roumanie,RO
-Royaume-Uni,GB
 Russie,RU
 Rwanda,RW
 Sahara occidental,EH
-Saint-Barthélémy,BL
-Saint-Kitts-et-Nevis,KN
+Saint-Barthélemy,BL
+Saint-Christophe-et-Niévès,KN
 Saint-Marin,SM
-Saint-Martin [partie française],MF
-Saint-Martin [partie néerlandaise],SX
+Saint-Martin,MF
+Saint-Martin (partie néerlandaise),SX
 Saint-Pierre-et-Miquelon,PM
-Saint-Vincent-et-les Grenadines,VC
+Saint-Vincent-et-les-Grenadines,VC
 Sainte-Hélène,SH
 Sainte-Lucie,LC
 Samoa,WS
 Samoa américaines,AS
-Sao Tomé-et-Príncipe,ST
+Sao Tomé-et-Principe,ST
 Sénégal,SN
 Serbie,RS
 Seychelles,SC
@@ -218,19 +219,18 @@ Sri Lanka,LK
 Suède,SE
 Suisse,CH
 Suriname,SR
-Svalbard et Île Jan Mayen,SJ
+Svalbard et Jan Mayen,SJ
 Swaziland,SZ
 Tadjikistan,TJ
-Taïwan,TW
+Taiwan,TW
 Tanzanie,TZ
 Tchad,TD
 Terres australes françaises,TF
-Territoire britannique de l'océan Indien,IO
-Territoire palestinien,PS
+Territoire britannique de l’océan Indien,IO
 Thaïlande,TH
-Timor oriental,TL
+Timor-Oriental,TL
 Togo,TG
-Tokelau,TK
+Tokélaou,TK
 Tonga,TO
 Trinité-et-Tobago,TT
 Tunisie,TN
@@ -241,7 +241,7 @@ Ukraine,UA
 Uruguay,UY
 Vanuatu,VU
 Venezuela,VE
-Viêt Nam,VN
+Vietnam,VN
 Wallis-et-Futuna,WF
 Yémen,YE
 Zambie,ZM

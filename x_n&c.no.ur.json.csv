@@ -28,8 +28,7 @@ Bosnia-Hercegovina,BA
 Botswana,BW
 Bouvetøya,BV
 Brasil,BR
-Britiske territorier i Indiahavet,IO
-Brunei Darussalam,BN
+Brunei,BN
 Bulgaria,BG
 Burkina Faso,BF
 Burundi,BI
@@ -50,7 +49,7 @@ De franske sørterritorier,TF
 Democratic Republic of the Congo,CD
 Den dominikanske republikk,DO
 Den sentralafrikanske republikk,CF
-Det palestinske området,PS
+Det britiske territoriet i Indiahavet,IO
 Djibouti,DJ
 Dominica,DM
 Ecuador,EC
@@ -61,7 +60,7 @@ Elfenbenskysten,CI
 Eritrea,ER
 Estland,EE
 Etiopia,ET
-Falklandsøyene,FK
+Falklandsøyene (Islas Malvinas),FK
 Fiji,FJ
 Filippinene,PH
 Finland,FI
@@ -84,10 +83,10 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
-Heardøya og McDonaldøyene,HM
+Heard- og McDonaldøyene,HM
 Hellas,GR
 Honduras,HN
-Hongkong,HK
+Hong Kong,HK
 Hviterussland,BY
 India,IN
 Indonesia,ID
@@ -123,8 +122,8 @@ Liberia,LR
 Libya,LY
 Liechtenstein,LI
 Litauen,LT
-Luxembourg,LU
-Macao,MO
+Luxemburg,LU
+Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Malawi,MW
@@ -164,6 +163,7 @@ Ny-Caledonia,NC
 Oman,OM
 Pakistan,PK
 Palau,PW
+Palestina,PS
 Panama,PA
 Papua Ny-Guinea,PG
 Paraguay,PY
@@ -177,7 +177,8 @@ Réunion,RE
 Romania,RO
 Russland,RU
 Rwanda,RW
-Saint Barthélemy,BL
+Saint Kitts og Nevis,KN
+Saint-Barthélemy,BL
 Saint-Martin,MF
 Salomonøyene,SB
 Samoa,WS
@@ -196,7 +197,6 @@ Somalia,SO
 Spania,ES
 Sri Lanka,LK
 St. Helena,SH
-St. Kitts og Nevis,KN
 St. Lucia,LC
 St. Pierre og Miquelon,PM
 St. Vincent og Grenadinene,VC
@@ -208,7 +208,7 @@ Sveits,CH
 Sverige,SE
 Swaziland,SZ
 Sør-Afrika,ZA
-Sør-Georgia og de sørlige Sandwich-øyene,GS
+Sør-Georgia og Sør-Sandwichøyene,GS
 Sør-Korea,KR
 Sør-Sudan,SS
 Tadsjikistan,TJ
@@ -232,7 +232,7 @@ Ukraina,UA
 Ungarn,HU
 Uruguay,UY
 USA,US
-USAs ytre småøyer,UM
+USAs ytre øyer,UM
 Usbekistan,UZ
 Vanuatu,VU
 Vatikanstaten,VA

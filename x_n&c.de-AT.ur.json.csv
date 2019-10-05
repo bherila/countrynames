@@ -1,12 +1,12 @@
 0,1
 Afghanistan,AF
 Ägypten,EG
-Alandinseln,AX
+Ålandinseln,AX
 Albanien,AL
 Algerien,DZ
-Amerikanisch-Ozeanien,UM
 Amerikanisch-Samoa,AS
 Amerikanische Jungferninseln,VI
+Amerikanische Überseeinseln,UM
 Andorra,AD
 Angola,AO
 Anguilla,AI
@@ -58,7 +58,7 @@ El Salvador,SV
 Elfenbeinküste,CI
 Eritrea,ER
 Estland,EE
-Falklandinseln,FK
+Falklandinseln (Malwinen),FK
 Färöer,FO
 Fidschi,FJ
 Finnland,FI
@@ -68,6 +68,7 @@ Französisch-Polynesien,PF
 Französische Süd- und Antarktisgebiete,TF
 Gabun,GA
 Gambia,GM
+GB,GB
 Georgien,GE
 Ghana,GH
 Gibraltar,GI
@@ -82,9 +83,9 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
-Heard- und McDonald-Inseln,HM
+Heard und McDonaldinseln,HM
 Honduras,HN
-Hongkong,HK
+Hong Kong,HK
 Indien,IN
 Indonesien,ID
 Irak,IQ
@@ -123,7 +124,7 @@ Libyen,LY
 Liechtenstein,LI
 Litauen,LT
 Luxemburg,LU
-Macao,MO
+Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Malawi,MW
@@ -163,7 +164,7 @@ Oman,OM
 Österreich,AT
 Osttimor,TL
 Pakistan,PK
-Palästinensische Autonomiegebiete,PS
+Palästina,PS
 Palau,PW
 Panama,PA
 Papua-Neuguinea,PG
@@ -232,13 +233,12 @@ Uganda,UG
 Ukraine,UA
 Ungarn,HU
 Uruguay,UY
+USA,US
 Usbekistan,UZ
 Vanuatu,VU
 Vatikanstadt,VA
 Venezuela,VE
 Vereinigte Arabische Emirate,AE
-Vereinigte Staaten,US
-Vereinigtes Königreich,GB
 Vietnam,VN
 Wallis und Futuna,WF
 Weihnachtsinsel,CX

@@ -16,9 +16,9 @@ Australia,AU
 Austria,AT
 Azerbaiyán,AZ
 Bahamas,BS
-Bahréin,BH
-Bangladesh,BD
+Bangladés,BD
 Barbados,BB
+Baréin,BH
 Bélgica,BE
 Belice,BZ
 Benín,BJ
@@ -38,6 +38,7 @@ Cabo Verde,CV
 Camboya,KH
 Camerún,CM
 Canadá,CA
+Catar,QA
 Chad,TD
 Chile,CL
 China,CN
@@ -56,6 +57,7 @@ Democratic Republic of the Congo,CD
 Dinamarca,DK
 Dominica,DM
 Ecuador,EC
+EE. UU.,US
 Egipto,EG
 El Salvador,SV
 Emiratos Árabes Unidos,AE
@@ -63,7 +65,6 @@ Eritrea,ER
 Eslovaquia,SK
 Eslovenia,SI
 España,ES
-Estados Unidos,US
 Estonia,EE
 Etiopía,ET
 Filipinas,PH
@@ -82,10 +83,10 @@ Guadalupe,GP
 Guam,GU
 Guatemala,GT
 Guayana Francesa,GF
-Guernsey,GG
+Guernesey,GG
 Guinea,GN
 Guinea Ecuatorial,GQ
-Guinea-Bissau,GW
+Guinea-Bisáu,GW
 Guyana,GY
 Haití,HT
 Honduras,HN
@@ -93,12 +94,11 @@ Hong Kong,HK
 Hungría,HU
 India,IN
 Indonesia,ID
-Iraq,IQ
+Irak,IQ
 Irlanda,IE
 Isla Bouvet,BV
-Isla Christmas,CX
 Isla de Man,IM
-Isla Niue,NU
+Isla de Navidad,CX
 Isla Norfolk,NF
 Islandia,IS
 Islas Åland,AX
@@ -111,12 +111,12 @@ Islas Heard y McDonald,HM
 Islas Malvinas (Falkland),FK
 Islas Marianas del Norte,MP
 Islas Marshall,MH
-Islas menores alejadas de los Estados Unidos,UM
+Islas menores alejadas de EE. UU.,UM
 Islas Pitcairn,PN
 Islas Salomón,SB
 Islas Turcas y Caicos,TC
 Islas Vírgenes Británicas,VG
-Islas Vírgenes de los Estados Unidos,VI
+Islas Vírgenes de EE. UU.,VI
 Israel,IL
 Italia,IT
 Jamaica,JM
@@ -138,7 +138,7 @@ Libia,LY
 Liechtenstein,LI
 Lituania,LT
 Luxemburgo,LU
-Macao,MO
+Macau,MO
 Macedonia,MK
 Madagascar,MG
 Malasia,MY
@@ -166,13 +166,15 @@ Nepal,NP
 Nicaragua,NI
 Níger,NE
 Nigeria,NG
+Niue,NU
 Noruega,NO
 Nueva Caledonia,NC
 Nueva Zelanda,NZ
 Omán,OM
 Países Bajos,NL
 Pakistán,PK
-Palau,PW
+Palaos,PW
+Palestina,PS
 Panamá,PA
 Papúa Nueva Guinea,PG
 Paraguay,PY
@@ -181,8 +183,7 @@ Polinesia Francesa,PF
 Polonia,PL
 Portugal,PT
 Puerto Rico,PR
-Qatar,QA
-Reino Unido,GB
+R. U.,GB
 República Centroafricana,CF
 República Checa,CZ
 República Dominicana,DO
@@ -219,12 +220,11 @@ Suiza,CH
 Surinam,SR
 Svalbard y Jan Mayen,SJ
 Tailandia,TH
-Taiwán,TW
+Taiwan,TW
 Tanzania,TZ
 Tayikistán,TJ
 Territorio Británico del Océano Índico,IO
 Territorios Australes Franceses,TF
-Territorios Palestinos,PS
 Timor Oriental,TL
 Togo,TG
 Tokelau,TK

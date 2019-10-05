@@ -24,13 +24,13 @@ Benin,BJ
 Bermudy,BM
 Bhutan,BT
 Białoruś,BY
-Birma,MM
 Boliwia,BO
 "Bonaire, Sint Eustatius i Saba",BQ
 Bośnia i Hercegowina,BA
 Botswana,BW
 Brazylia,BR
 Brunei Darussalam,BN
+Brytyjskie Terytorium Oceanu Indyjskiego,IO
 Brytyjskie Wyspy Dziewicze,VG
 Bułgaria,BG
 Burkina Faso,BF
@@ -48,6 +48,7 @@ Dalekie Wyspy Mniejsze Stanów Zjednoczonych,UM
 Dania,DK
 Democratic Republic of the Congo,CD
 Dominika,DM
+Dominikana,DO
 Dżibuti,DJ
 Egipt,EG
 Ekwador,EC
@@ -55,14 +56,14 @@ Erytrea,ER
 Estonia,EE
 Etiopia,ET
 Falklandy (Malwiny),FK
-Federalne Stany Mikronezji,FM
 Fidżi,FJ
 Filipiny,PH
 Finlandia,FI
 Francja,FR
-Francuskie Terytoria Południowe,TF
+Francuskie Terytoria Południowe i Antarktyczne,TF
 Gabon,GA
 Gambia,GM
+GB,GB
 Georgia Południowa i Sandwich Południowy,GS
 Ghana,GH
 Gibraltar,GI
@@ -71,6 +72,7 @@ Grenada,GD
 Grenlandia,GL
 Gruzja,GE
 Guam,GU
+Guernsey,GG
 Gujana,GY
 Gujana Francuska,GF
 Gwadelupa,GP
@@ -82,7 +84,7 @@ Haiti,HT
 Hiszpania,ES
 Holandia,NL
 Honduras,HN
-Hongkong,HK
+Hong Kong,HK
 Indie,IN
 Indonezja,ID
 Irak,IQ
@@ -92,6 +94,7 @@ Izrael,IL
 Jamajka,JM
 Japonia,JP
 Jemen,YE
+Jersey,JE
 Jordania,JO
 Kajmany,KY
 Kambodża,KH
@@ -118,10 +121,10 @@ Liechtenstein,LI
 Litwa,LT
 Luksemburg,LU
 Łotwa,LV
+Macau,MO
 Macedonia,MK
 Madagaskar,MG
 Majotta,YT
-Makau,MO
 Malawi,MW
 Malediwy,MV
 Malezja,MY
@@ -133,6 +136,8 @@ Martynika,MQ
 Mauretania,MR
 Mauritius,MU
 Meksyk,MX
+Mikronezja,FM
+Mjanma (Birma),MM
 Mołdawia,MD
 Monako,MC
 Mongolia,MN
@@ -153,8 +158,9 @@ Nowa Zelandia,NZ
 Oman,OM
 Pakistan,PK
 Palau,PW
+Palestyna,PS
 Panama,PA
-Papua Nowa Gwinea,PG
+Papua-Nowa Gwinea,PG
 Paragwaj,PY
 Peru,PE
 Pitcairn,PN
@@ -162,7 +168,6 @@ Polinezja Francuska,PF
 Polska,PL
 Portoryko,PR
 Portugalia,PT
-Republika Dominikańska,DO
 Republika Południowej Afryki,ZA
 Republika Środkowoafrykańska,CF
 Republika Zielonego Przylądka,CV
@@ -191,7 +196,6 @@ Słowacja,SK
 Słowenia,SI
 Somalia,SO
 Sri Lanka,LK
-Stany Zjednoczone,US
 Suazi,SZ
 Sudan,SD
 Sudan Południowy,SS
@@ -200,12 +204,10 @@ Svalbard i Jan Mayen,SJ
 Szwajcaria,CH
 Szwecja,SE
 Tadżykistan,TJ
+Taiwan,TW
 Tajlandia,TH
-Tajwan,TW
 Tanzania,TZ
-Terytoria Palestyńskie,PS
-Terytorium Brytyjskie Oceanu Indyjskiego,IO
-Timor Wschodni,TL
+Timor-Leste,TL
 Togo,TG
 Tokelau,TK
 Tonga,TO
@@ -218,20 +220,18 @@ Tuvalu,TV
 Uganda,UG
 Ukraina,UA
 Urugwaj,UY
+USA,US
 Uzbekistan,UZ
 Vanuatu,VU
 Wallis i Futuna,WF
 Watykan,VA
 Wenezuela,VE
 Węgry,HU
-Wielka Brytania,GB
 Wietnam,VN
 Włochy,IT
 Wybrzeże Kości Słoniowej,CI
 Wyspa Bouveta,BV
 Wyspa Bożego Narodzenia,CX
-Wyspa Guernsey,GG
-Wyspa Jersey,JE
 Wyspa Man,IM
 Wyspa Świętej Heleny,SH
 Wyspy Alandzkie,AX
